@@ -12,7 +12,7 @@
     <meta name="author" content="Ignacio Rivas" />
 
     <!-- Load custom WebFonts -->
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'>
 
     <!-- Importing Web Component's Polyfill -->
     <script src="bower_components/platform/platform.js"></script>
@@ -53,19 +53,28 @@
         margin: auto 0;
       }
 
-      .main .title h2 {
-        font-size: 2.6em;
+      .main .title h1, h2 {
+        margin: 0.1em 0;
         font-weight: 300;
 
         -webkit-box-sizing: border-box;
                 box-sizing: border-box;
+      }
+
+      .main h1{
+        font-size: 4.6em;
+      }
+
+      .main h2 {
+        font-size: 2em;
       }
     </style>
   </head>
   <body>
     <section class="main">
       <div class="title">
-        <h2>github-ribbon Web Component</h2>
+        <h1>github-ribbon</h1>
+        <h2>Web Component</h2>
       </div>
     </section>
   </body>
