@@ -1,3 +1,7 @@
+{
+  "name": "github-ribbon",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sabarasaba/github-ribbon",
   "authors": [
     "Ignacio Rivas <rivasign@gmail.com>"
   ],
@@ -22,3 +26,4 @@
     "platform": "Polymer/platform#~0.2.4",
     "polymer": "Polymer/polymer#~0.2.4"
   }
+}
