@@ -1,0 +1,24 @@
+  "authors": [
+    "Ignacio Rivas <rivasign@gmail.com>"
+  ],
+  "description": "Web Component Displays a Github ribbon [Github Ribbon] using Polymer.",
+  "main": "src/github-ribbon.html",
+  "keywords": [
+    "polymer",
+    "web-components",
+    "github",
+    "ribbon",
+    "github ribbon"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "platform": "Polymer/platform#~0.2.4",
+    "polymer": "Polymer/polymer#~0.2.4"
+  }
