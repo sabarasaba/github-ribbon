@@ -23,7 +23,6 @@
     "tests"
   ],
   "dependencies": {
-    "platform": "Polymer/platform#~0.2.4",
-    "polymer": "Polymer/polymer#~0.2.4"
+    "polymer": "0.2.2"
   }
 }
