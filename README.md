@@ -3,7 +3,7 @@
 Web Component Displays a Github ribbon [Github Ribbon] using Polymer.
 
 ## Demo
-> [Check it live](http://ifly9.com.br/webcomponents/web-loader/).
+> [Check it live](http://ignaciorivas.me/github-ribbon/).
 
 ## Install
 
